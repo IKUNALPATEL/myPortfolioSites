@@ -1,0 +1,14 @@
+{
+  "name": "kunalportfoliosites",
+  "version": "1.0.0",
+  "description": "My portfolio websites",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Kunal Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
